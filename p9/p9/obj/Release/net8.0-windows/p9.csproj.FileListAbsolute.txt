@@ -1,0 +1,16 @@
+C:\Users\smith\source\repos\p9\p9\bin\Release\net8.0-windows\p9.exe
+C:\Users\smith\source\repos\p9\p9\bin\Release\net8.0-windows\p9.deps.json
+C:\Users\smith\source\repos\p9\p9\bin\Release\net8.0-windows\p9.runtimeconfig.json
+C:\Users\smith\source\repos\p9\p9\bin\Release\net8.0-windows\p9.dll
+C:\Users\smith\source\repos\p9\p9\bin\Release\net8.0-windows\p9.pdb
+C:\Users\smith\source\repos\p9\p9\obj\Release\net8.0-windows\p9.Form1.resources
+C:\Users\smith\source\repos\p9\p9\obj\Release\net8.0-windows\p9.csproj.GenerateResource.cache
+C:\Users\smith\source\repos\p9\p9\obj\Release\net8.0-windows\p9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smith\source\repos\p9\p9\obj\Release\net8.0-windows\p9.AssemblyInfoInputs.cache
+C:\Users\smith\source\repos\p9\p9\obj\Release\net8.0-windows\p9.AssemblyInfo.cs
+C:\Users\smith\source\repos\p9\p9\obj\Release\net8.0-windows\p9.csproj.CoreCompileInputs.cache
+C:\Users\smith\source\repos\p9\p9\obj\Release\net8.0-windows\p9.dll
+C:\Users\smith\source\repos\p9\p9\obj\Release\net8.0-windows\refint\p9.dll
+C:\Users\smith\source\repos\p9\p9\obj\Release\net8.0-windows\p9.pdb
+C:\Users\smith\source\repos\p9\p9\obj\Release\net8.0-windows\p9.genruntimeconfig.cache
+C:\Users\smith\source\repos\p9\p9\obj\Release\net8.0-windows\ref\p9.dll
