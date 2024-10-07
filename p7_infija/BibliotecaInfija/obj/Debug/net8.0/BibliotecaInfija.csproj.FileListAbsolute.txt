@@ -1,0 +1,11 @@
+C:\Users\smith\source\repos\p7_infija\BibliotecaInfija\bin\Debug\net8.0\BibliotecaInfija.deps.json
+C:\Users\smith\source\repos\p7_infija\BibliotecaInfija\bin\Debug\net8.0\BibliotecaInfija.dll
+C:\Users\smith\source\repos\p7_infija\BibliotecaInfija\bin\Debug\net8.0\BibliotecaInfija.pdb
+C:\Users\smith\source\repos\p7_infija\BibliotecaInfija\obj\Debug\net8.0\BibliotecaInfija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smith\source\repos\p7_infija\BibliotecaInfija\obj\Debug\net8.0\BibliotecaInfija.AssemblyInfoInputs.cache
+C:\Users\smith\source\repos\p7_infija\BibliotecaInfija\obj\Debug\net8.0\BibliotecaInfija.AssemblyInfo.cs
+C:\Users\smith\source\repos\p7_infija\BibliotecaInfija\obj\Debug\net8.0\BibliotecaInfija.csproj.CoreCompileInputs.cache
+C:\Users\smith\source\repos\p7_infija\BibliotecaInfija\obj\Debug\net8.0\BibliotecaInfija.dll
+C:\Users\smith\source\repos\p7_infija\BibliotecaInfija\obj\Debug\net8.0\refint\BibliotecaInfija.dll
+C:\Users\smith\source\repos\p7_infija\BibliotecaInfija\obj\Debug\net8.0\BibliotecaInfija.pdb
+C:\Users\smith\source\repos\p7_infija\BibliotecaInfija\obj\Debug\net8.0\ref\BibliotecaInfija.dll

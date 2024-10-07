@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "p7_Infija/1.0.0": {
+        "dependencies": {
+          "BibliotecaInfija": "1.0.0"
+        },
+        "runtime": {
+          "p7_Infija.dll": {}
+        }
+      },
+      "BibliotecaInfija/1.0.0": {
+        "runtime": {
+          "BibliotecaInfija.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p7_Infija/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaInfija/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+C:\Users\smith\source\repos\p7\Biblioteca\bin\Debug\net8.0\BibliotecaPrefija.deps.json
+C:\Users\smith\source\repos\p7\Biblioteca\bin\Debug\net8.0\BibliotecaPrefija.dll
+C:\Users\smith\source\repos\p7\Biblioteca\bin\Debug\net8.0\BibliotecaPrefija.pdb
+C:\Users\smith\source\repos\p7\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smith\source\repos\p7\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.AssemblyInfoInputs.cache
+C:\Users\smith\source\repos\p7\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.AssemblyInfo.cs
+C:\Users\smith\source\repos\p7\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.csproj.CoreCompileInputs.cache
+C:\Users\smith\source\repos\p7\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.dll
+C:\Users\smith\source\repos\p7\Biblioteca\obj\Debug\net8.0\refint\BibliotecaPrefija.dll
+C:\Users\smith\source\repos\p7\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.pdb
+C:\Users\smith\source\repos\p7\Biblioteca\obj\Debug\net8.0\ref\BibliotecaPrefija.dll
+C:\Users\smith\Desktop\Nueva carpeta\Biblioteca\bin\Debug\net8.0\BibliotecaPrefija.deps.json
+C:\Users\smith\Desktop\Nueva carpeta\Biblioteca\bin\Debug\net8.0\BibliotecaPrefija.dll
+C:\Users\smith\Desktop\Nueva carpeta\Biblioteca\bin\Debug\net8.0\BibliotecaPrefija.pdb
+C:\Users\smith\Desktop\Nueva carpeta\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smith\Desktop\Nueva carpeta\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.AssemblyInfoInputs.cache
+C:\Users\smith\Desktop\Nueva carpeta\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.AssemblyInfo.cs
+C:\Users\smith\Desktop\Nueva carpeta\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.csproj.CoreCompileInputs.cache
+C:\Users\smith\Desktop\Nueva carpeta\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.dll
+C:\Users\smith\Desktop\Nueva carpeta\Biblioteca\obj\Debug\net8.0\refint\BibliotecaPrefija.dll
+C:\Users\smith\Desktop\Nueva carpeta\Biblioteca\obj\Debug\net8.0\BibliotecaPrefija.pdb
+C:\Users\smith\Desktop\Nueva carpeta\Biblioteca\obj\Debug\net8.0\ref\BibliotecaPrefija.dll

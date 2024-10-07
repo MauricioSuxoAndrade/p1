@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "p7_prefija/1.0.0": {
+        "dependencies": {
+          "BibliotecaPrefija": "1.0.0"
+        },
+        "runtime": {
+          "p7_prefija.dll": {}
+        }
+      },
+      "BibliotecaPrefija/1.0.0": {
+        "runtime": {
+          "BibliotecaPrefija.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p7_prefija/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaPrefija/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
